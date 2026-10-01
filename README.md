@@ -1,6 +1,6 @@
 # Simple FTP Server
 
-A lightweight FTP server with a simple Tkinter desktop interface.
+A lightweight FTP server with a simple desktop interface.
 
 Choose a folder, set a username and password, and start an FTP server that makes the folder available to other devices on your local network.
 
