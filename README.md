@@ -84,6 +84,4 @@ FTP does **not** encrypt usernames, passwords, or transferred files. Do not expo
 
 Use a strong password and stop the server when it is no longer needed.
 
-## License
 
-Add your preferred license here.
